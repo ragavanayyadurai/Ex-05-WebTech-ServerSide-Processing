@@ -138,4 +138,4 @@ urlpatterns = [
 ![Home Page](./home.png)
 
 # RESULT:
-The program is executed succesfully
+The program for implementing severside processing is completed successfully.
